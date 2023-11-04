@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepnakka&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepnakka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradeepnakka" alt="pradeepnakka" /></a> </p>
-
 - 👷 Completed B.Tech in Electronics (2019-2023) **SRKR Engineering college**
 
 - 🌱 I’m currently learning **Core java & DSA**
